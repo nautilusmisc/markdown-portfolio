@@ -1,1 +1,1 @@
-https://github.com/nautilusmisc
+[link to GitHub profile](https://github.com/nautilusmisc)
