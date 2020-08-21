@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Hobbies:
+- Playing musical instruments, composing
+- Lucid dreaming
+- Photography
+- DIY projects
+- Reading and writing
